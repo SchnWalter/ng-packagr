@@ -1,0 +1,10 @@
+{
+  "name": "fail-explicit-deps",
+  "private": true,
+  "ngPackage": {
+    "deleteDestPath": true,
+    "lib": {
+      "entryFile": "index.ts"
+    }
+  }
+}
